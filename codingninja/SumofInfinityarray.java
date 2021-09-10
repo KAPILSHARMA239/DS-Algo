@@ -1,5 +1,6 @@
+
 import java.util.*;
-public class Solution {
+public class SumofInfinityarray {
 private static int mod = (int) 1e9 + 7;
     public static List<Integer> sumInRanges(int[] arr, int n, List<List<Long>> queries, int q) {
  List <Integer>out=new ArrayList<Integer>();
